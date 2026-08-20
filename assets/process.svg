@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="170" viewBox="0 0 800 170" role="img" aria-label="Cómo trabajamos: llamada, prototipo, construcción por etapas, operación">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="182" viewBox="0 0 800 182" role="img" aria-label="Cómo trabajamos: llamada, prototipo, construcción por etapas, operación">
   <defs><style>.t { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif; }</style>
     <linearGradient id="lg" x1="0" x2="1"><stop offset="0" stop-color="#8e8ff2" stop-opacity="0.1"/><stop offset="0.5" stop-color="#8e8ff2" stop-opacity="0.6"/><stop offset="1" stop-color="#8e8ff2" stop-opacity="0.1"/></linearGradient>
   </defs>
-  <rect width="800" height="170" fill="#0a0a0a" rx="14"/>
-  <rect x="0.5" y="0.5" width="799" height="169" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
+  <rect width="800" height="182" fill="#0a0a0a" rx="14"/>
+  <rect x="0.5" y="0.5" width="799" height="181" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
   <line x1="36" y1="44" x2="636.0" y2="44" stroke="#ffffff" stroke-opacity="0.1"/>
   <line x1="36" y1="44" x2="636.0" y2="44" stroke="url(#lg)" stroke-width="1.5" stroke-dasharray="5 9"><animate attributeName="stroke-dashoffset" from="0" to="-140" dur="6s" repeatCount="indefinite"/></line>
   <line x1="36" y1="44" x2="636.0" y2="44" stroke="#8e8ff2" stroke-width="1.5" stroke-dasharray="600.0" stroke-dashoffset="600.0" opacity="0.8"><animate attributeName="stroke-dashoffset" from="600.0" to="0" begin="0.3s" dur="1.8s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/><animate attributeName="opacity" from="0.8" to="0" begin="2.1s" dur="0.8s" fill="freeze"/></line>
