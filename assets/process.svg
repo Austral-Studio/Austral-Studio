@@ -1,35 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="200" viewBox="0 0 1280 200" role="img" aria-label="Cómo trabajamos: llamada, prototipo, construcción por etapas, operación">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="170" viewBox="0 0 800 170" role="img" aria-label="Cómo trabajamos: llamada, prototipo, construcción por etapas, operación">
   <defs><style>.t { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif; }</style>
     <linearGradient id="lg" x1="0" x2="1"><stop offset="0" stop-color="#8e8ff2" stop-opacity="0.1"/><stop offset="0.5" stop-color="#8e8ff2" stop-opacity="0.6"/><stop offset="1" stop-color="#8e8ff2" stop-opacity="0.1"/></linearGradient>
   </defs>
-  <rect width="1280" height="200" fill="#0a0a0a" rx="16"/>
-  <rect x="0.5" y="0.5" width="1279" height="199" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
-  <line x1="48" y1="56" x2="1008" y2="56" stroke="#ffffff" stroke-opacity="0.1"/>
-  <line x1="48" y1="56" x2="1008" y2="56" stroke="url(#lg)" stroke-width="1.5" stroke-dasharray="6 10"><animate attributeName="stroke-dashoffset" from="0" to="-160" dur="6s" repeatCount="indefinite"/></line>
-  <line x1="48" y1="56" x2="1008" y2="56" stroke="#8e8ff2" stroke-width="1.5" stroke-dasharray="960" stroke-dashoffset="960" opacity="0.8"><animate attributeName="stroke-dashoffset" from="960" to="0" begin="0.3s" dur="1.8s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/><animate attributeName="opacity" from="0.8" to="0" begin="2.1s" dur="0.8s" fill="freeze"/></line>
+  <rect width="800" height="170" fill="#0a0a0a" rx="14"/>
+  <rect x="0.5" y="0.5" width="799" height="169" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
+  <line x1="36" y1="44" x2="636.0" y2="44" stroke="#ffffff" stroke-opacity="0.1"/>
+  <line x1="36" y1="44" x2="636.0" y2="44" stroke="url(#lg)" stroke-width="1.5" stroke-dasharray="5 9"><animate attributeName="stroke-dashoffset" from="0" to="-140" dur="6s" repeatCount="indefinite"/></line>
+  <line x1="36" y1="44" x2="636.0" y2="44" stroke="#8e8ff2" stroke-width="1.5" stroke-dasharray="600.0" stroke-dashoffset="600.0" opacity="0.8"><animate attributeName="stroke-dashoffset" from="600.0" to="0" begin="0.3s" dur="1.8s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/><animate attributeName="opacity" from="0.8" to="0" begin="2.1s" dur="0.8s" fill="freeze"/></line>
   <g class="t"><g><animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.7s" fill="freeze"/>
-      <circle cx="48.0" cy="56" r="20" fill="#111111" stroke="#8e8ff2" stroke-opacity="0.5"/>
-      <circle cx="48.0" cy="56" r="20" fill="none" stroke="#8e8ff2" stroke-width="1.5" opacity="0"><animate attributeName="r" values="20;30" begin="0.6000000000000001s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/><animate attributeName="opacity" values="0.7;0" begin="0.6000000000000001s" dur="1s" fill="freeze"/></circle>
-      <text x="48.0" y="61" text-anchor="middle" font-size="13" font-weight="600" fill="#8e8ff2" letter-spacing="0.5">01</text>
-      <text x="28.0" y="112" font-size="19" font-weight="600" fill="#f5f3ec" letter-spacing="-0.4">Llamada</text>
-      <text x="28.0" y="140" font-size="14" fill="#9a9a9a"><tspan x="28.0" dy="0">Treinta minutos. Nos contás cómo</tspan><tspan x="28.0" dy="19">trabajan hoy y qué duele.</tspan></text>
+      <circle cx="36.0" cy="44" r="16" fill="#111111" stroke="#8e8ff2" stroke-opacity="0.5"/>
+      <circle cx="36.0" cy="44" r="16" fill="none" stroke="#8e8ff2" stroke-width="1.5" opacity="0"><animate attributeName="r" values="16;26" begin="0.6000000000000001s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/><animate attributeName="opacity" values="0.7;0" begin="0.6000000000000001s" dur="1s" fill="freeze"/></circle>
+      <text x="36.0" y="48" text-anchor="middle" font-size="11" font-weight="600" fill="#8e8ff2" letter-spacing="0.5">01</text>
+      <text x="20.0" y="90" font-size="16" font-weight="600" fill="#f5f3ec" letter-spacing="-0.3">Llamada</text>
+      <text x="20.0" y="113" font-size="12" fill="#9a9a9a"><tspan x="20.0" dy="0">Treinta minutos. Nos contás</tspan><tspan x="20.0" dy="16">cómo trabajan hoy y qué</tspan><tspan x="20.0" dy="16">duele.</tspan></text>
     </g><g><animate attributeName="opacity" from="0" to="1" begin="0.8500000000000001s" dur="0.7s" fill="freeze"/>
-      <circle cx="368.0" cy="56" r="20" fill="#111111" stroke="#8e8ff2" stroke-opacity="0.5"/>
-      <circle cx="368.0" cy="56" r="20" fill="none" stroke="#8e8ff2" stroke-width="1.5" opacity="0"><animate attributeName="r" values="20;30" begin="1.05s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/><animate attributeName="opacity" values="0.7;0" begin="1.05s" dur="1s" fill="freeze"/></circle>
-      <text x="368.0" y="61" text-anchor="middle" font-size="13" font-weight="600" fill="#8e8ff2" letter-spacing="0.5">02</text>
-      <text x="348.0" y="112" font-size="19" font-weight="600" fill="#f5f3ec" letter-spacing="-0.4">Prototipo</text>
-      <text x="348.0" y="140" font-size="14" fill="#9a9a9a"><tspan x="348.0" dy="0">En dos semanas, algo clickeable</tspan><tspan x="348.0" dy="19">con tus datos de ejemplo.</tspan></text>
+      <circle cx="236.0" cy="44" r="16" fill="#111111" stroke="#8e8ff2" stroke-opacity="0.5"/>
+      <circle cx="236.0" cy="44" r="16" fill="none" stroke="#8e8ff2" stroke-width="1.5" opacity="0"><animate attributeName="r" values="16;26" begin="1.05s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/><animate attributeName="opacity" values="0.7;0" begin="1.05s" dur="1s" fill="freeze"/></circle>
+      <text x="236.0" y="48" text-anchor="middle" font-size="11" font-weight="600" fill="#8e8ff2" letter-spacing="0.5">02</text>
+      <text x="220.0" y="90" font-size="16" font-weight="600" fill="#f5f3ec" letter-spacing="-0.3">Prototipo</text>
+      <text x="220.0" y="113" font-size="12" fill="#9a9a9a"><tspan x="220.0" dy="0">En dos semanas, algo</tspan><tspan x="220.0" dy="16">clickeable con tus datos de</tspan><tspan x="220.0" dy="16">ejemplo.</tspan></text>
     </g><g><animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.7s" fill="freeze"/>
-      <circle cx="688.0" cy="56" r="20" fill="#111111" stroke="#8e8ff2" stroke-opacity="0.5"/>
-      <circle cx="688.0" cy="56" r="20" fill="none" stroke="#8e8ff2" stroke-width="1.5" opacity="0"><animate attributeName="r" values="20;30" begin="1.5s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/><animate attributeName="opacity" values="0.7;0" begin="1.5s" dur="1s" fill="freeze"/></circle>
-      <text x="688.0" y="61" text-anchor="middle" font-size="13" font-weight="600" fill="#8e8ff2" letter-spacing="0.5">03</text>
-      <text x="668.0" y="112" font-size="19" font-weight="600" fill="#f5f3ec" letter-spacing="-0.4">Construcción por etapas</text>
-      <text x="668.0" y="140" font-size="14" fill="#9a9a9a"><tspan x="668.0" dy="0">Entregas cada dos o tres semanas,</tspan><tspan x="668.0" dy="19">cada una usable.</tspan></text>
+      <circle cx="436.0" cy="44" r="16" fill="#111111" stroke="#8e8ff2" stroke-opacity="0.5"/>
+      <circle cx="436.0" cy="44" r="16" fill="none" stroke="#8e8ff2" stroke-width="1.5" opacity="0"><animate attributeName="r" values="16;26" begin="1.5s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/><animate attributeName="opacity" values="0.7;0" begin="1.5s" dur="1s" fill="freeze"/></circle>
+      <text x="436.0" y="48" text-anchor="middle" font-size="11" font-weight="600" fill="#8e8ff2" letter-spacing="0.5">03</text>
+      <text x="420.0" y="90" font-size="16" font-weight="600" fill="#f5f3ec" letter-spacing="-0.3">Por etapas</text>
+      <text x="420.0" y="113" font-size="12" fill="#9a9a9a"><tspan x="420.0" dy="0">Entregas cada dos o tres</tspan><tspan x="420.0" dy="16">semanas, cada una usable.</tspan></text>
     </g><g><animate attributeName="opacity" from="0" to="1" begin="1.75s" dur="0.7s" fill="freeze"/>
-      <circle cx="1008.0" cy="56" r="20" fill="#111111" stroke="#8e8ff2" stroke-opacity="0.5"/>
-      <circle cx="1008.0" cy="56" r="20" fill="none" stroke="#8e8ff2" stroke-width="1.5" opacity="0"><animate attributeName="r" values="20;30" begin="1.95s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/><animate attributeName="opacity" values="0.7;0" begin="1.95s" dur="1s" fill="freeze"/></circle>
-      <text x="1008.0" y="61" text-anchor="middle" font-size="13" font-weight="600" fill="#8e8ff2" letter-spacing="0.5">04</text>
-      <text x="988.0" y="112" font-size="19" font-weight="600" fill="#f5f3ec" letter-spacing="-0.4">Operación</text>
-      <text x="988.0" y="140" font-size="14" fill="#9a9a9a"><tspan x="988.0" dy="0">Deploy, monitoreo, backups,</tspan><tspan x="988.0" dy="19">soporte. Una persona que contesta.</tspan></text>
+      <circle cx="636.0" cy="44" r="16" fill="#111111" stroke="#8e8ff2" stroke-opacity="0.5"/>
+      <circle cx="636.0" cy="44" r="16" fill="none" stroke="#8e8ff2" stroke-width="1.5" opacity="0"><animate attributeName="r" values="16;26" begin="1.95s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/><animate attributeName="opacity" values="0.7;0" begin="1.95s" dur="1s" fill="freeze"/></circle>
+      <text x="636.0" y="48" text-anchor="middle" font-size="11" font-weight="600" fill="#8e8ff2" letter-spacing="0.5">04</text>
+      <text x="620.0" y="90" font-size="16" font-weight="600" fill="#f5f3ec" letter-spacing="-0.3">Operación</text>
+      <text x="620.0" y="113" font-size="12" fill="#9a9a9a"><tspan x="620.0" dy="0">Deploy, monitoreo, backups,</tspan><tspan x="620.0" dy="16">soporte. Una persona que</tspan><tspan x="620.0" dy="16">contesta.</tspan></text>
     </g></g>
 </svg>
