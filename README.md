@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://austral-studio.com"><img src="assets/banner.svg" alt="Austral Studio — Software a medida que tu equipo usa todos los días." width="100%"></a>
+  <a href="https://austral-studio.com"><img src="assets/banner.svg?v=2" alt="Austral Studio — Software a medida que tu equipo usa todos los días." width="100%"></a>
 </p>
 
 <p align="center">
@@ -21,29 +21,29 @@ Estudio de software en Buenos Aires. Hacemos **sistemas de gestión, apps para i
 <table>
   <tr>
     <td width="33%" valign="top">
-      <img src="assets/icons/sistemas.svg" width="28" height="28" alt=""><h3>Sistemas internos</h3>
+      <img src="assets/icons/sistemas.svg?v=2" width="28" height="28" alt=""><h3>Sistemas internos</h3>
       Turnos, gestión, stock, facturación. Lo que hoy vive en planillas y WhatsApp, ordenado en una herramienta que tu equipo aprende en días.
     </td>
     <td width="33%" valign="top">
-      <img src="assets/icons/apps.svg" width="28" height="28" alt=""><h3>Apps para iPhone y Mac</h3>
+      <img src="assets/icons/apps.svg?v=2" width="28" height="28" alt=""><h3>Apps para iPhone y Mac</h3>
       Nativas, en Swift y SwiftUI. Rápidas, con notificaciones, offline cuando hace falta, publicadas en el App Store.
     </td>
     <td width="33%" valign="top">
-      <img src="assets/icons/web.svg" width="28" height="28" alt=""><h3>Sitios web y tiendas</h3>
+      <img src="assets/icons/web.svg?v=2" width="28" height="28" alt=""><h3>Sitios web y tiendas</h3>
       Sitios para profesionales, clínicas y negocios, y tiendas con carrito, Mercado Pago y envíos. Rápidos, medibles, primeros en Google.
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <img src="assets/icons/python.svg" width="28" height="28" alt=""><h3>Automatización en Python</h3>
+      <img src="assets/icons/python.svg?v=2" width="28" height="28" alt=""><h3>Automatización en Python</h3>
       Scripts, scraping, reportes, pipelines de datos. Lo que alguien hace a mano todos los lunes, corriendo solo y avisando por WhatsApp si algo falla.
     </td>
     <td valign="top">
-      <img src="assets/icons/ia.svg" width="28" height="28" alt=""><h3>Chatbots e IA</h3>
+      <img src="assets/icons/ia.svg?v=2" width="28" height="28" alt=""><h3>Chatbots e IA</h3>
       Bots para web y WhatsApp que responden con tus propios datos, clasificación de documentos, búsqueda en lenguaje natural. Y si un <code>if</code> lo resuelve, no le ponemos IA.
     </td>
     <td valign="top">
-      <img src="assets/icons/integraciones.svg" width="28" height="28" alt=""><h3>Integraciones</h3>
+      <img src="assets/icons/integraciones.svg?v=2" width="28" height="28" alt=""><h3>Integraciones</h3>
       WhatsApp, Mercado Pago, obras sociales, facturación electrónica AFIP, tu ERP. Conectamos lo que ya usás para que nadie cargue datos dos veces.
     </td>
   </tr>
@@ -70,13 +70,13 @@ Estudio de software en Buenos Aires. Hacemos **sistemas de gestión, apps para i
 
 ## Cómo trabajamos
 
-<img src="assets/process.svg" alt="Llamada de 30 minutos → prototipo en dos semanas → construcción por etapas → operación" width="100%">
+<img src="assets/process.svg?v=2" alt="Llamada de 30 minutos → prototipo en dos semanas → construcción por etapas → operación" width="100%">
 
 <br>
 
 ## Stack
 
-<img src="assets/marquee.svg" alt="Swift, SwiftUI, TypeScript, React, Node.js, Python, PostgreSQL, Supabase, Cloudflare, Claude API, WhatsApp API, Mercado Pago, AFIP, ESP32" width="100%">
+<img src="assets/marquee.svg?v=2" alt="Swift, SwiftUI, TypeScript, React, Node.js, Python, PostgreSQL, Supabase, Cloudflare, Claude API, WhatsApp API, Mercado Pago, AFIP, ESP32" width="100%">
 
 <br>
 
