@@ -21,29 +21,29 @@ Estudio de software en Buenos Aires. Hacemos **sistemas de gestión, apps para i
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Sistemas internos</h3>
+      <img src="assets/icons/sistemas.svg" width="28" height="28" alt=""><h3>Sistemas internos</h3>
       Turnos, gestión, stock, facturación. Lo que hoy vive en planillas y WhatsApp, ordenado en una herramienta que tu equipo aprende en días.
     </td>
     <td width="33%" valign="top">
-      <h3>Apps para iPhone y Mac</h3>
+      <img src="assets/icons/apps.svg" width="28" height="28" alt=""><h3>Apps para iPhone y Mac</h3>
       Nativas, en Swift y SwiftUI. Rápidas, con notificaciones, offline cuando hace falta, publicadas en el App Store.
     </td>
     <td width="33%" valign="top">
-      <h3>Sitios web y tiendas</h3>
+      <img src="assets/icons/web.svg" width="28" height="28" alt=""><h3>Sitios web y tiendas</h3>
       Sitios para profesionales, clínicas y negocios, y tiendas con carrito, Mercado Pago y envíos. Rápidos, medibles, primeros en Google.
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <h3>Automatización en Python</h3>
+      <img src="assets/icons/python.svg" width="28" height="28" alt=""><h3>Automatización en Python</h3>
       Scripts, scraping, reportes, pipelines de datos. Lo que alguien hace a mano todos los lunes, corriendo solo y avisando por WhatsApp si algo falla.
     </td>
     <td valign="top">
-      <h3>Chatbots e IA</h3>
+      <img src="assets/icons/ia.svg" width="28" height="28" alt=""><h3>Chatbots e IA</h3>
       Bots para web y WhatsApp que responden con tus propios datos, clasificación de documentos, búsqueda en lenguaje natural. Y si un <code>if</code> lo resuelve, no le ponemos IA.
     </td>
     <td valign="top">
-      <h3>Integraciones</h3>
+      <img src="assets/icons/integraciones.svg" width="28" height="28" alt=""><h3>Integraciones</h3>
       WhatsApp, Mercado Pago, obras sociales, facturación electrónica AFIP, tu ERP. Conectamos lo que ya usás para que nadie cargue datos dos veces.
     </td>
   </tr>
@@ -68,27 +68,15 @@ Estudio de software en Buenos Aires. Hacemos **sistemas de gestión, apps para i
 
 <br>
 
+## Cómo trabajamos
+
+<img src="assets/process.svg" alt="Llamada de 30 minutos → prototipo en dos semanas → construcción por etapas → operación" width="100%">
+
+<br>
+
 ## Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Swift-0a0a0a?style=flat-square&logo=swift&logoColor=F05138" alt="Swift">
-  <img src="https://img.shields.io/badge/SwiftUI-0a0a0a?style=flat-square&logo=swift&logoColor=F05138" alt="SwiftUI">
-  <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Vite-0a0a0a?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite">
-  <img src="https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind">
-  <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
-  <img src="https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL">
-  <img src="https://img.shields.io/badge/Supabase-0a0a0a?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase">
-  <img src="https://img.shields.io/badge/Cloudflare-0a0a0a?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/Claude_API-0a0a0a?style=flat-square&logo=anthropic&logoColor=D4A27F" alt="Claude API">
-  <img src="https://img.shields.io/badge/WhatsApp_API-0a0a0a?style=flat-square&logo=whatsapp&logoColor=25D366" alt="WhatsApp API">
-  <img src="https://img.shields.io/badge/Mercado_Pago-0a0a0a?style=flat-square&logo=mercadopago&logoColor=00B1EA" alt="Mercado Pago">
-  <img src="https://img.shields.io/badge/ESP32-0a0a0a?style=flat-square&logo=espressif&logoColor=E7352C" alt="ESP32">
-</p>
+<img src="assets/marquee.svg" alt="Swift, SwiftUI, TypeScript, React, Node.js, Python, PostgreSQL, Supabase, Cloudflare, Claude API, WhatsApp API, Mercado Pago, AFIP, ESP32" width="100%">
 
 <br>
 
